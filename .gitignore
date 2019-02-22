@@ -60,7 +60,6 @@ media/*
 media/.*
 static/*
 static/.*
-*/migrations
 
 # Flask stuff:
 instance/
