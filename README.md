@@ -66,7 +66,6 @@ pip install -r requirements.txt
 
 After installation is completed you should be able to run "pip freeze" to check all the packages installed. For now you should only see:
 
-Django==2.1.7
-pytz==2018.9
+Django==2.1.7 and pytz==2018.9
 
-After that you have completed the django installation you can proceed with the next course.
+**Django first project**
