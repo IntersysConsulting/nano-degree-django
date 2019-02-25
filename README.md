@@ -1,4 +1,4 @@
-**Django Internal Certification.**
+# Django Internal Certification | First Steps
 
 **Pre-requisite**
 
